@@ -1,0 +1,35 @@
+#container{
+    width: 90%;
+    height: 100%;
+    margin: 15px auto;
+    border-radius: 10%;
+    display:-webkit-box;
+    padding:20px;
+    
+}
+#Processing, #Orderd{
+    width: 25%;
+    min-height: 500px;
+    overflow-y: auto;
+    margin: 20px ;
+    -webkit-box-flex:1;
+    text-align: center;
+   
+}
+.header{
+    width:90%;
+    height:50px;
+    
+    text-align:center;
+    padding :10px ;
+    font: 20px tahoma;
+}
+.order{
+    width:90%;
+    height:40px;
+    border-radius: 20px;
+    text-align:center;
+    padding :10px ;
+    font: 20px tahoma;
+    margin-top:10px;
+}

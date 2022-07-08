@@ -1,0 +1,54 @@
+body
+{
+    font-family:Poppins;
+}
+
+nav.navbar
+{
+    padding-bottom: 7px;
+    font-family:Poppins;
+}
+
+ .navbarshadow
+{
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+    margin-bottom: 14px;
+}
+.container
+{
+    margin-top: 30px;
+}
+
+img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button.btn[type="button"]
+{
+    padding: 0px 4px;
+    font-size: 23px;
+    line-height: 21px;
+    border-width: 2px !important;
+}
+
+.card
+{
+    display: inline-block;
+    width: 95%;
+    text-align: center;
+}
+.col-md-4
+{
+    padding: 0;
+}
+.card img
+{
+    width: 80%;
+    margin: 10px auto;
+    display: block;
+}

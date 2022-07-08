@@ -1,0 +1,27 @@
+
+#loader 
+{
+    background-image:url("../images/loader.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:60%;height:60%;
+    transform: translateX(35%);
+}
+#iti
+{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#team
+{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#team i 
+{
+color:red;
+}
