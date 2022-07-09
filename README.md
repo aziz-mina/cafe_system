@@ -25,7 +25,7 @@
 
 1- Install XAMPP or WAMPP.
 
-2- Download project from github https://github.com/mina-isaac-99/cafe-system 
+2- Download project from github https://github.com/mina-isaac-99/php_cafe_system
 
 3- open link localhost/phpmyadmin 
 4- create database with name cafe_system. 
