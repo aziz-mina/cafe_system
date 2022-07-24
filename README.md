@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/4sklkeQ.png" height='100px'>
 
-✨# Cafe Project ✨
+# ✨ Cafe Project ✨
 
 **Languages and Technologies:**  
 
