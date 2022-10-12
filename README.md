@@ -1,6 +1,4 @@
-<img src="https://i.imgur.com/4sklkeQ.png" height='100px'>
-
-# ✨ Cafe Project ✨
+# <img src="https://i.imgur.com/4sklkeQ.png" height="100px">  Cafe Project
 
 **Languages and Technologies:**  
 
@@ -23,6 +21,8 @@
 
 **Run The Apllication:**  
 
+```
+
 1- Install XAMPP or WAMPP.
 
 2- Download project from github https://github.com/mina-isaac-99/php_cafe_system
@@ -36,6 +36,7 @@
 
 7- En(:oy 
 
+```
 
 **Login Details:**  
 ## Admin:
