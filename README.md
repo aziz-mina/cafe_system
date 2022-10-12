@@ -41,12 +41,12 @@ Simple OOP PHP cafe managment system for ITI Internship
 ```
 
 **Login Details:**  
-### Admin:
+ Admin:
 username : admin@admin.com 
 
 password : 12345 
 
-### User Details: 
+ User Details: 
 username : user@user.com 
 
 password : 12345 
