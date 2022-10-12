@@ -1,4 +1,6 @@
 # <img src="https://i.imgur.com/4sklkeQ.png" height="40px">  Cafe Project
+Simple OOP PHP cafe managment system
+
 
 **Languages and Technologies:**  
 
@@ -39,12 +41,12 @@
 ```
 
 **Login Details:**  
-## Admin:
+### Admin:
 username : admin@admin.com 
 
 password : 12345 
 
-## User Details: 
+### User Details: 
 username : user@user.com 
 
 password : 12345 
