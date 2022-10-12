@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/4sklkeQ.png" height="40px">  Cafe Project
+# <img src="https://i.imgur.com/4sklkeQ.png" height="30px">  Cafe Project
 Simple OOP PHP cafe managment system for ITI Internship
 
 
