@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/4sklkeQ.png" height="100px">  Cafe Project
+# <img src="https://i.imgur.com/4sklkeQ.png" height="40px">  Cafe Project
 
 **Languages and Technologies:**  
 
